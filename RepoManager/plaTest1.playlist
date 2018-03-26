@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="RepoManagerTest.RepoTest.RegisterUnregisteredValidContentXml" /><Add Test="RepoManagerTest.RepoTest.RegisterRegisteredValidContentXml" /></Playlist>
